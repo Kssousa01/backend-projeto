@@ -1,0 +1,11 @@
+{
+    "$schema": "https://openia.vercel.sh/vercel.json",
+    "cleanUrl": true,
+    "rewrites": [
+        {
+            "souce": "/",
+            "destination": "/api/index"
+        }
+    ]
+}
+
