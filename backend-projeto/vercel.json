@@ -1,6 +1,6 @@
 {
     "$schema": "https://openia.vercel.sh/vercel.json",
-    "cleanUrl": true,
+    "cleanUrls": true,
     "rewrites": [
         {
             "souce": "/",
